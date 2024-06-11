@@ -1,0 +1,36 @@
+total 1716
+-rw-rw-r--   1 sunbeam sunbeam       0 Jun  2 21:57 Assignment2.txt
+-rw-rw-r--   1 sunbeam sunbeam    2790 May 31 23:11 Assignment1_commands
+-rw-rw-r--   1 sunbeam sunbeam   36753 May 31 23:08 Assignment1.txt
+-rw-rw-r--   1 sunbeam sunbeam      46 May 31 19:01 example2.txt
+drwxrwxr-x   2 sunbeam sunbeam    4096 May 31 18:58 example
+drwxrwxr-x   2 sunbeam sunbeam    4096 May 22 16:00 WelcomePageFolder
+-rw-rw-r--   1 sunbeam sunbeam 1654835 May 19 23:12 WelcomePageFolder.tar.Z
+-rw-rw-r--   1 sunbeam sunbeam   33923 Apr 15 18:57 package-lock.json
+-rw-rw-r--   1 sunbeam sunbeam     124 Apr 15 18:57 package.json
+drwxrwxr-x 105 sunbeam sunbeam    4096 Apr 15 18:57 node_modules
+total 1720
+   4 Assignment1_commands
+  36 Assignment1.txt
+   4 Assignment2.txt
+   4 example
+   4 example2.txt
+   4 node_modules
+   4 package.json
+  36 package-lock.json
+   4 WelcomePageFolder
+1620 WelcomePageFolder.tar.Z
+8293486 Assignment1_commands
+8301360 Assignment1.txt
+8292129 Assignment2.txt
+8651427 example
+8309730 example2.txt
+8552051 node_modules
+8299002 package.json
+8292372 package-lock.json
+9314741 WelcomePageFolder
+8300817 WelcomePageFolder.tar.Z
+555.txt
+55.txt
+5.txt
+name
