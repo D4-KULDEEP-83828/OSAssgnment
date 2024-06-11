@@ -1,0 +1,61 @@
+
+ 1083  cd Desktop
+ 1084  man ls
+ 1085  ls
+ 1086  ls -lt
+ 1087  ls -lt >> Assignment2.txt
+ 1088  man ls
+ 1089  ls -s
+ 1090  ls -s >> Assignment2.txt
+ 1091  man ls
+ 1092  ls -i
+ 1093  ls -i >> Assignment2.txt
+ 1094  ls /home/sunbeam/Desktop/example
+ 1095  vim example.txt
+ 1096  touch example.txt >> Assignment2.txt
+ 1097  mkdir one
+ 1098  cd one
+ 1099  touch 1.txt 11.txt 111.txt
+ 1100  mkdir two
+ 1101  cd two
+ 1102  touch 2.txt 22.txt 222.txt
+ 1103  mkdir 3
+ 1104  cd 3
+ 1105  touch 3.txt 33.txt 333.txt
+ 1106  mkdir four
+ 1107  touch 4.txt 44.txt 444.txt
+ 1108  mkdir 5
+ 1109  touch 5.txt 55.txt 555.txt
+ 1110  cd ....
+ 1111  cd ..
+ 1112  ls one/two/three/four/five
+ 1113  cd one/two/three
+ 1114  cd one
+ 1115  cd two
+ 1116  cd three
+ 1117  cd 3
+ 1118  rm 5
+ 1119  r 5
+ 1120  R 5
+ 1121  rmdir 5
+ 1122  cd four
+ 1123  mkdir 
+ 1124  mkdir five
+ 1125  touch 5.txt 55.txt 555.txt
+ 1126  cd..
+ 1127  cd ..
+ 1128  ls one/two/3/four/five
+ 1129  ls one/two/3/four/five >> Assignment2.txt
+ 1130  cat >> one/two/3/four/44.txt
+ 1131  cat >> one/two/3/four/44.txt >> Assignment2.txt
+ 1132  rm one/two/3/four/five/55.txt
+ 1133  rm one/two/22.txt
+ 1134  cd one/two/3/four
+ 1135  rm ../2.txt
+ 1136  rm ../../2.txt
+ 1137  cd ..
+ 1138  cd ../..
+ 1139  cd ..
+ 1140  touch one/two/3/3.txt
+ 1141  touch one/two/3/3.txt >> Assignment2.txt
+ 1142  history >> Assignment2_commands.txt
