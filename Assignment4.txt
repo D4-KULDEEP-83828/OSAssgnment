@@ -1,0 +1,16 @@
+ 1321  vim data.txt
+ 1322  wc <data.txt> 
+ 1323  wc <data.txt> Assignment4.txt
+ 1324  grep "files" Assignment4.txt
+ 1325  grep 'files' Assignment4.txt
+ 1326  grep 'files' data.txt
+ 1327  grep -v 'files' data.txt
+ 1328  grep 'have' data.txt
+ 1329  grep '^f' data.txt
+ 1330  grep '.$' data.txt
+ 1331  man head
+ 1332  head -n 2 data.txt 
+ 1333  tail -n 3 data.txt
+ 1334  man head
+ 1335  head -n 5 data.txt | tail -n 3
+ 1336  history >> Assignment4.txt
