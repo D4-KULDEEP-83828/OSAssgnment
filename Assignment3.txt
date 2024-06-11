@@ -1,0 +1,71 @@
+
+ 1251  rename -n 's/\.txt$/.html' *.txt
+ 1252  rename 's/\.txt$/.html/' *.txt
+ 1253  ls
+ 1254  rename 's/\.txt$/.html/' *.txt'
+ 1255  rename 's/\.txt$/.html/' *.txt
+ 1256  rename 's/\.txt$/.html/' *.html
+ 1257  rename 's/\.txt$/.html/' *.txt >> Assignment3.txt
+ 1258  ls
+ 1259  rename 's/\.html$/.txt/' *.html
+ 1260  ls
+ 1261  rename 's/\.txt$/.html/' *.txt >> Assignment3.txt
+ 1262  man ln -s
+ 1263  cd ../..
+ 1264  ln -s 11.txt 1link
+ 1265  1link
+ 1266  cd 1link
+ 1267  cat >> 1link
+ 1268  ln -s 11.txt 1link >> Assignment3.txt
+ 1269  ln -s 1.txt onelink >> Assignment3.txt
+ 1270  ln two 2link
+ 1271  ln 111.txt 111link
+ 1272  ln 111.txt 111link >> Assignment3.txt
+ 1273  ln two/22.txt 22link >> Assignment3.txt
+ 1274  ln two/222.txt 22link >> Assignment3.txt
+ 1275  stat 11.txt
+ 1276  stat 11.txt >> Assignment3.txt
+ 1277  whoami
+ 1278  whoami >> Assignment3.txt
+ 1279  tty
+ 1280  tty >> Assignment3.txt
+ 1281  users
+ 1282  users >> Assignment3.txt
+ 1283  cd ..
+ 1284  grep 'wo*w' repeat.txt
+ 1285  grep 'wo?w' repeat.txt
+ 1286  grep "w" repeat.txt
+ 1287  grep "^w" repeat.txt
+ 1288  grep "$w" repeat.txt
+ 1289  grep "^w$" repeat.txt
+ 1290  grep "w$" repeat.txt
+ 1291  grep "wo?w" repeat.txt
+ 1292  chmod -w repeat.txt
+ 1293  grep "w$" repeat.txt >> Assignment3.txt
+ 1294  chmod -w repeat.txt >> Assignment3.txt
+ 1295  cat >> repeat.txt
+ 1296  chmod +w repeat.txt
+ 1297  cat >> repeat.txt
+ 1298  wc -w <repeat.txt> 
+ 1299  wc -w <repeat.txt> Assignment3.txt
+ 1300  wc -w <repeat.txt> wc.txt
+ 1301  who | wc wc.txt
+ 1302  who | wc 
+ 1303  man head
+ 1304  head repeat.txt
+ 1305  head 5 repeat.txt
+ 1306  man head
+ 1307  tail repeat.txt
+ 1308  sort repeat.txt
+ 1309  uniq repeat.txt
+ 1310  sort repeat.txt | uniq
+ 1311  man grep
+ 1312  who | grep -v tty[24]
+ 1313  who | grep -v "tty[24]"
+ 1314  who
+ 1315  who | grep  "tty[24]"
+ 1316  ls -l | grep "^-" | wc -l
+ 1317  man tr
+ 1318  tr a-z [A-Z]
+ 1319  man cut
+ 1320  history >> Assignment3.txt
