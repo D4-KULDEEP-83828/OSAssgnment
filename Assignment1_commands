@@ -1,0 +1,99 @@
+  936  man
+  937  man Home
+  938  man man
+  939  find /Home/Documents/CPP/cpp -name "Day01"
+  940  uname
+  941  pwd
+  942  find /home/Documents/CPP/cpp -name "Day01"
+  943  hostname
+  944  date
+  945  cal
+  946  ls
+  947  dir
+  948  cat example.txt
+  949  cat > example.txt
+  950  cat >> example.txt
+  951  mv example.txt /home/sunbeam/Documents
+  952  mv /home/sunbeam/Documents/example.txt eg.txt
+  953  rm eg.txt
+  954  cd ..
+  955  cd /Desktop
+  956  cd Desktop
+  957  mkdir example
+  958  rmdir example
+  959  mkdir example
+  960  rm -R example
+  961  cat Assignment.txt
+  962  man man > Assignment.txt
+  963  history > Assignment.txt
+  964  man man > Assignment.txt
+  965  uname > Assignment.txt
+  966  man man > Assignment.txt
+  967  uname >> Assignment.txt
+  968  pwd >> Assignment.txt
+  969  hostname >> Assignment.txt
+  970  date >> Assignment.txt
+  971  ls >> Assignment.txt
+  972  dir >> Assignment.txt
+  973  find /home/sunbeam/Documents -print
+  974  apt-get update
+  975  cat example.txt >> Assignment.txt
+  976  cat > example.txt >> Assignment.txt
+  977  cat >> example.txt >> Assignment.txt
+  978  cp example.txt example2.txt
+  979  cp example.txt example2.txt >> Assignment.txt
+  980  mv example2.txt /home/documents >> Assignment.txt
+  981  mv example2.txt /home/Documents >> Assignment.txt
+  982  example2.txt
+  983  tac example2.txt
+  984  rev example2.txt
+  985  cat >> example2.txt
+  986  tac example2.txt
+  987  rev example2.txt
+  988  cat >> example2.txt
+  989  tac example2.txt
+  990  tac example2.txt >> Assignment.txt
+  991  rev example2.txt >> Assignment.txt
+  992  wc example2.txt
+  993  wc example2.txt >> Assignment.txt
+  994  mkdir example
+  995  mkdir example3 >> Assignment.txt
+  996  rm example.txt >> Assignment.txt
+  997  rmdir example3 >> Assignment.txt
+  998  touch example2.txt
+  999  touch example2.txt >> Assignment.txt
+ 1000  sort example2.txt
+ 1001  sort example2.txt >> Assignment.txt
+ 1002  uniq example2.txt
+ 1003  uniq example2.txt >> Assignment.txt
+ 1004  tail example2.txt
+ 1005  tail example2.txt >> Assignment.txt
+ 1006  factor 249
+ 1007  factor 249 >> Assignment.txt
+ 1008  alias sort = s
+ 1009  alias s = 'sort'
+ 1010  nano ~/ .bashrc
+ 1011  alias s='sort'
+ 1012  s example2.txt
+ 1013  alias s='sort'
+ 1014  s example2.sort
+ 1015  s example2.txt
+ 1016  alias s='sort' >>Assignment.txt
+ 1017  s example2.txt >>Assignment.txt
+ 1018  unalias s
+ 1019  unalias s >>Assignment.txt
+ 1020  alias s='sort'
+ 1021  unalias s >>Assignment.txt
+ 1022  echo
+ 1023  echo example2.txt
+ 1024  dir
+ 1025  pwd
+ 1026  echo /home/sunbeam/Desktop
+ 1027  echo /home/sunbeam/Desktop >> Assignment.txt
+ 1028  ps
+ 1029  ps >> Assignment.txt
+ 1030  env
+ 1031  env >> Assignment.txt
+ 1032  kill
+ 1033  kill >> Assignment.txt
+ 1034  history >> Assignment1_commands
